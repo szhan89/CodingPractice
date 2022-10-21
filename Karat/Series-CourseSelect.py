@@ -26,6 +26,7 @@ def findPairs(pairs):
     
     keys = list(mapVar.keys())    
     result = collections.defaultdict(list)
+    
     for i in range(0,len(keys)):
         for j in range(i+1, len(keys)):
             for course in mapVar[keys[i]]:
@@ -33,8 +34,7 @@ def findPairs(pairs):
                 if course in mapVar[keys[j]]:
                     result[keys[i],keys[j]].append(course)
                 
-    return result            
-    
+    return result 
 print(findPairs(student_course_pairs_1))
 
 '''
