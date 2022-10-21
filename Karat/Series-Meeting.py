@@ -2,7 +2,7 @@
 meeting = [[1300, 1500], [930, 1200],[830, 845]]
 #####
 
-'''
+'''Question 1
 Given a list that contains start and end time for meetings, check if a meeting time can be inserted
 '''
 def freeTime(list_,time):
@@ -12,7 +12,7 @@ def freeTime(list_,time):
         return True
 print(freeTime(meeting, [1450,1500]))
 
-'''
+'''Question 2
 Given a list that contains start and end time for meetings, return all its free space
 '''    
 def merge(list_):
