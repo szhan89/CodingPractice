@@ -1,0 +1,902 @@
+authorName,authorID
+John Y. Campbell,10001
+Tarun Ramadorai,10002
+Benjamin Ranish,10003
+Satoshi Shimizutani,10004
+Takashi Oshio,10005
+Mayu Fujii,10006
+Julian di Giovanni,10007
+Andrei Levchenko,10160
+Francesc Ortega,10009
+Ron Alquist,10010
+Saroj Bhattarai,10011
+Olivier Coibion,10012
+Daron Acemoglu,10013
+Suresh Naidu,10540
+Pascual Restrepo,10015
+James A. Robinson,10242
+Eric Helland,10017
+Darius N. Lakdawalla,10018
+Anup Malani,10019
+Seth A. Seabury,10020
+Theodore J. Joyce,10021
+Sean Crockett,10022
+David A. Jaeger,10023
+Onur Altindag,10024
+Stephen D. O'Connell,10025
+Michael Hallsworth,10026
+John List,10027
+Robert Metcalfe,10028
+Ivo Vlaev,10029
+Daan Van Soest,10030
+Jan Stoop,10031
+Haiwen Zhou,10032
+Patrick Bolton,10033
+Hui Chen,10034
+Neng Wang,10035
+Dolan Antenucci,10036
+Michael Cafarella,10037
+Margaret Levenstein,10038
+Christopher Ré,10039
+Matthew D. Shapiro,10040
+S. Nageeb Ali,10041
+B. Douglas Bernheim,10042
+Xiaochen Fan,10043
+Ajay K. Agrawal,10044
+John McHale,10045
+Alex Oettl,10046
+Saziye P. Akyol,10047
+Kala Krishna,10048
+Joseph E. Stiglitz,10049
+Sumit Agarwal,10050
+Gene Amromin,10051
+Itzhak Ben-David,10142
+Souphala Chomsisengphet,10053
+Yan Zhang,10054
+Rena M. Conti,10055
+Ernst R. Berndt,10056
+Jason Hockenberry,10920
+Lorens Helmchen,10058
+Devin Michelle Bunten,10059
+Matthew E. Kahn,10060
+Sébastien Houde,10061
+Casey B. Mulligan,10062
+Joseph P. Newhouse,10063
+Mary Price,10064
+J. Michael McWilliams,10065
+John Hsu,10066
+Thomas McGuire,10728
+Ariel Pakes,10068
+Ran Abramitzky,10069
+Isabelle Sin,10070
+Nava Ashraf,10071
+Diego Aycinena,10655
+Claudia Martinez,10073
+Dean Yang,10755
+Vasco M. Carvalho,10075
+Nico Voigtländer,10554
+George J. Borjas,10077
+Kirk B. Doran,10078
+Gary B. Gorton,10079
+Andrew Metrick,10080
+Lei Xie,10081
+Benjamin E. Hermalin,10082
+Michael S. Weisbach,10083
+Aldo Musacchio,10084
+Andre Martinez,10085
+Martina Viarengo,10086
+Luc Behaghel,10087
+Didier Blanchet,10088
+Muriel Roger,10089
+Jesper Bagger,10090
+Rasmus Lentz,10091
+Jeremy Atack,10092
+Matthew S. Jaremski,10499
+Peter L. Rousseau,10500
+Galina Hale,10095
+Maurice Obstfeld,10166
+Brigham Frandsen,10097
+James B. Rebitzer,10098
+Alain Jousten,10099
+Mathieu Lefebvre,10100
+Sergio Perelman,10101
+Chris Forman,10102
+Avi Goldfarb,10103
+Shane Greenstein,10104
+Annamaria Conti,10105
+Christopher C. Liu,10106
+Simon Gilchrist,10107
+Jae W. Sim,10108
+Egon Zakrajšek,10247
+Hezekiah Agwara,10110
+Philip Auerswald,10111
+Brian Higginbotham,10112
+Lawrence J. Christiano,10113
+Martin S. Eichenbaum,10114
+Mathias Trabandt,10115
+Benoît Mojon,10116
+Graciela L. Kaminsky,10117
+Pablo Vega-García,10118
+Florian Scheuer,10119
+Alexander Wolitzky,10120
+Jess Benhabib,10121
+Pengfei Wang,10930
+Sherry A. Glied,10123
+Kamran Bilir,10124
+Davin Chor,10125
+Kalina Manova,10126
+Dean Karlan,10949
+Daniel H. Wood,10128
+Hunt Allcott,10129
+Richard Sweeney,10130
+David Neumark,10131
+Helen Simpson,10132
+Abhijit Banerjee,10133
+Xin Meng,10134
+Tommaso Porzio,10135
+Nancy Qian,10136
+Ben Mermelstein,10137
+Volker Nocke,10138
+Mark A. Satterthwaite,10139
+Michael D. Whinston,10140
+Brian Baugh,10141
+Hoonsuk Park,10143
+Thomas C. Buchmueller,10144
+Sarah Miller,10145
+Marko Vujicic,10146
+Matias Busso,10147
+Sebastian Galiani,10178
+Marco Del Negro,10149
+Marc P. Giannoni,10150
+Frank Schorfheide,10151
+Michael LeGower,10152
+Randall Walsh,10153
+Mark Rosenzweig,10154
+Junsen Zhang,10155
+Mariacristina De Nardi,10156
+Fang Yang,10157
+Naci H. Mocan,10158
+Christian Raschke,10159
+Isabelle Mejean,10161
+Jerry Tsai,10162
+Jessica A. Wachter,10163
+Robert C. Feenstra,10164
+Philip A. Luck,10165
+Katheryn N. Russ,10167
+Simon Johnson,10168
+Raven Molloy,10169
+Christopher L. Smith,10170
+Abigail K. Wozniak,10171
+Fredrik Andersson,10172
+John C. Haltiwanger,10173
+Mark J. Kutzbach,10174
+Henry O. Pollakowski,10175
+Daniel H. Weinberg,10176
+Nicolás Ajzenman,10177
+Enrique Seira,10179
+Lance Lochner,10180
+Youngki Shin,10181
+Sari Pekkala Kerr,10182
+William R. Kerr,10909
+William F. Lincoln,10184
+Carolin Pflueger,10185
+Luis M. Viceira,10186
+Francesco Franzoni,10187
+Rabih Moussawi,10188
+Robert F. Stambaugh,10189
+Greg Kaplan,10190
+Giovanni L. Violante,10191
+Justin Weidner,10192
+Daniel Elfenbein,10193
+Raymond Fisman,10194
+Brian McManus,10195
+Ralph Koijen,10196
+Tomas Philipson,10197
+Harald Uhlig,10198
+Bernard Herskovic,10199
+Bryan T. Kelly,10200
+Hanno Lustig,10827
+Stijn Van Nieuwerburgh,10713
+Margaret S. McMillan,10203
+Kenneth Harttgen,10204
+Howard Bodenhorn,10205
+Eugene N. White,10222
+Arnaud Costinot,10207
+Dave Donaldson,10208
+Cory B. Smith,10209
+Lynn M. Fisher,10210
+Lauren Lambie-Hanson,10211
+Paul S. Willen,10212
+Francesco Bianchi,10213
+Cosmin L. Ilut,10961
+Martin Schneider,10215
+Andrew Beath,10216
+Fotini Christia,10217
+Georgy Egorov,10218
+Ruben Enikolopov,10219
+Pierre-Cyrille Hautcoeur,10220
+Angelo Riva,10221
+Wojciech Kopczuk,10573
+David J. Munroe,10224
+Hefei Wen,10225
+Janet R. Cummings,10227
+Weerachart Kilenthong,10228
+Robert Townsend,10229
+Christina D. Romer,10230
+David H. Romer,10231
+Matthew Chesnes,10232
+Weijia (Daisy) Dai,10233
+Ginger Zhe Jin,10234
+Yasushi Hamao,10235
+Yongxiang Wang,10237
+Daniel Bennett,10238
+Wesley Yin,10239
+Isaías N. Chaves,10240
+Philip Osafo-Kwaako,10241
+Giovanni Peri,10335
+Kevin Y. Shih,10244
+Chad Sparber,10245
+David López-Salido,10246
+Eric Hilt,10248
+Donald S. Kenkel,10249
+Maximilian D. Schmeiser,10250
+Carly J. Urban,10251
+Charles F. Manski,10252
+Paul Bergin,10253
+Ling Feng,10254
+Ching-Yi Lin,10255
+Paul Beaudry,10256
+Dana Galizia,10257
+Franck Portier,10258
+Nicholas Bloom,10259
+Renata Lemos,10260
+Raffaella Sadun,10261
+Daniela Scur,10262
+John Van Reenen,10263
+Anna Aizer,10264
+Shari Eli,10265
+Joseph P. Ferrie,10266
+Adriana Lleras-Muney,10641
+Jaroslav Borovička,10268
+Lars P. Hansen,10528
+Jose A. Scheinkman,10270
+Emmanuel Farhi,10688
+Iván Werning,10272
+Pedro Bordalo,10273
+Nicola Gennaioli,10274
+Andrei Shleifer,10715
+Peter Temin,10276
+Allison Shertzer,10277
+Tate Twinam,10278
+Randall P. Walsh,10279
+Steve Cicala,10280
+George M. Constantinides,10281
+Anisha Ghosh,10282
+Laura Dague,10283
+Thomas DeLeire,10284
+Lindsey Leininger,10285
+Davide Cantoni,10286
+Yuyu Chen,10287
+David Y. Yang,10288
+Noam Yuchtman,10398
+Y. Jane Zhang,10290
+Kelly Noonan,10291
+Hope Corman,10292
+Nancy E. Reichman,10293
+Paul Bingley,10294
+Nabanita Datta Gupta,10295
+Michael Jorgensen,10296
+Peder Pedersen,10297
+Drew D. Creal,10298
+Jing Cynthia Wu,10415
+W. Kip Viscusi,10300
+Fan Dora Xia,10301
+C. Kirabo Jackson,10302
+Rucker Johnson,10303
+Claudia Persico,10304
+Myrto Kalouptsidi,10305
+Courtney Coile,10306
+Kevin S. Milligan,10307
+David A. Wise,10764
+Murillo Campello,10309
+Rafael Perez Ribas,10310
+Yan Wang,10311
+Christian Broda,10312
+Jonathan A. Parker,10313
+Per Johansson,10314
+Lisa Laun,10315
+Mårten Palme,10316
+Raimond Maurer,10317
+Olivia S. Mitchell,10352
+Ralph Rogalla,10319
+Ivonne Siegelin,10320
+Alexander L. Brown,10321
+Joanna N. Lahey,10916
+Kenneth S. Rogoff,10323
+Keith M. Marzilli Ericson,10324
+Benjamin M. Friedman,10325
+Massimo Morelli,10326
+Dominic Rohner,10327
+Christian Baker,10328
+Jeremy Bejarano,10329
+Richard W. Evans,10330
+Kenneth L. Judd,10331
+Kerk L. Phillips,10332
+Michele Battisti,10333
+Gabriel Felbermayr,10334
+Panu Poutvaara,10336
+John A. List,10591
+Anya Savikhin Samek,10578
+Stefano Giglio,10339
+Matteo Maggiori,10399
+Johannes Stroebel,10400
+Michael T. Belongia,10342
+Peter N. Ireland,10343
+Julian C. Jamison,10344
+Jonathan Zinman,10346
+Andrew B. Bernard,10347
+Andreas Moxnes,10348
+Karen Helene Ulltveit-Moe,10349
+Robert L. Clark,10350
+Annamaria Lusardi,10741
+Jonathan B. Berk,10353
+Jules H. van Binsbergen,10354
+Binying Liu,10355
+Ariel BenYishay,10356
+A. Mushfiq Mobarak,10936
+Leemore Dafny,10358
+Jonathan Gruber,10359
+Christopher Ody,10360
+Itamar Drechsler,10361
+Alexi Savov,10842
+Philipp Schnabl,10363
+Marianne P. Bitler,10364
+Jonah B. Gelbach,10365
+Hilary W. Hoynes,10366
+Paulo Bastos,10367
+Joana Silva,10368
+Eric Verhoogen,10369
+Bruno Crépon,10370
+Florencia Devoto,10371
+Esther Duflo,10372
+William Pariente,10373
+Pamela Jakiela,10376
+Shachar Kariv,10377
+Thomas F. Hellmann,10378
+Veikko Thiele,10379
+Silvia Barbaresco,10380
+Charles J. Courtemanche,10381
+Yanling Qi,10382
+Karthik Krishnan,10383
+Debarshi Nandy,10384
+Manju Puri,10385
+Nico Voigtlaender,10386
+Hans-Joachim Voth,10387
+Emin Dinlersoz,10388
+Jeremy Greenwood,10389
+Henry Hyatt,10390
+Atif Mian,10391
+Amir Sufi,10392
+Leonardo Bursztyn,10393
+Michael Callen,10394
+Bruno Ferman,10395
+Saad Gulzar,10396
+Ali Hasanain,10397
+Fernando Alvarez,10401
+Hervé Le Bihan,10402
+Francesco Lippi,10403
+David Cutler,10404
+Wei Huang,10405
+Alberto Bisin,10407
+Shenghao Zhu,10408
+Charles Yuji Horioka,10409
+Seth Freedman,10410
+Haizhen Lin,10411
+Kosali Simon,10587
+Joshua S. Gans,10417
+Kinda Hachem,10414
+Martin C. Byford,10416
+Brian Jacob,10418
+Max Kapustin,10419
+Jens Ludwig,10420
+Anil K. Kashyap,10421
+Dimitrios P. Tsomocos,10422
+Alexandros P. Vardoulakis,10423
+Ming-Jen Lin,10424
+Elaine M. Liu,10425
+Brian Clark,10426
+Clément Joubert,10427
+Arnaud Maurel,10643
+Lorenzo Caliendo,10429
+Fernando Parro,10430
+Esteban Rossi-Hansberg,10431
+Pierre-Daniel Sarte,10432
+Madeline Zavodny,10433
+Greg Fischer,10434
+Margaret McConnell,10436
+Pia Raffler,10437
+Tom Blake,10438
+Chris Nosko,10439
+Steven Tadelis,10440
+Gharad Bryan,10441
+Shyamal Chowdhury,10442
+Ahmed Mushfiq Mobarak,10443
+Joshua D. Angrist,10444
+Erich Battistin,10445
+Daniela Vuri,10446
+Francesco Giavazzi,10447
+Ivan Petkov,10448
+Fabio Schiantarelli,10449
+David Berger,10450
+Joseph Vavra,10451
+Stephen G. Dimmock,10452
+William C. Gerken,10453
+Zoran Ivković,10454
+Scott J. Weisbenner,10455
+Bernard Harris,10456
+Roderick Floud,10457
+Sok Chul Hong,10458
+Sarah Cohodes,10459
+Daniel Grossman,10460
+Samuel Kleiner,10461
+Michael F. Lovenheim,10462
+Roberto Perotti,10463
+Catherine C. Eckel,10464
+David Herberich,10465
+Jonathan Meer,10470
+Christopher Afendulis,10526
+Anna Sinaiko,10468
+Richard Frank,10469
+J. Forrest Williams,10471
+Robert E. Hall,10472
+James Andreoni,10943
+Andy Brownback,10474
+Laurence M. Ball,10475
+Lucas Davis,10476
+Catherine Hausman,10477
+Jaewon Choi,10478
+Matthew P. Richardson,10479
+Robert F. Whitelaw,10480
+Dani Rodrik,10481
+Pierre-André Chiappori,10482
+Costas Meghir,10487
+Daniel Andrei,10484
+Bruce Carlin,10485
+Michael Hasler,10486
+Steven Shavell,10488
+Tarek A. Hassan,10489
+Thomas M. Mertens,10490
+Cosmin Ilut,10491
+Melissa S. Kearney,10492
+Phillip B. Levine,10493
+Asako S. Moriya,10509
+Alberto Galasso,10496
+Matthew Mitchell,10497
+Gabor Virag,10498
+David le Bris,10501
+William N. Goetzmann,10502
+Sébastien Pouget,10503
+Enrique G. Mendoza,10504
+Linda L. Tesar,10505
+Jing Zhang,10506
+Laura Salisbury,10507
+Yaa Akosa Antwi,10508
+Aileen Heinberg,10582
+Angela A. Hung,10512
+Arie Kapteyn,10579
+Joanne Yoong,10516
+Charles D. Kolstad,10517
+Rafael La Porta,10518
+Joseph E. Aldy,10520
+Seamus J. Smyth,10521
+Oliver Hart,10522
+Luigi Zingales,10523
+Karen Stockley,10524
+Michael E. Chernew,10527
+José A. Scheinkman,10529
+Frederico Belo,10530
+Xiaoji Lin,10531
+Fan Yang,10532
+Kalena Cortes,10533
+Joshua Goodman,10534
+Takako Nomi,10535
+David Dranove,10536
+Craig Garthwaite,10537
+Manuel Hermosilla,10538
+Oeindrila Dube,10539
+Matthias Doepke,10541
+Fabrizio Zilibotti,10542
+Ian W.R. Martin,10543
+Robert S. Pindyck,10544
+Patrick Francois,10545
+Ilia Rainer,10546
+Francesco Trebbi,10604
+Pablo Fajgelbaum,10548
+Stephen J. Redding,10891
+Günther Fink,10550
+B. Kelsey Jack,10551
+Felix Masiye,10552
+Mara P. Squicciarini,10553
+Kris James Mitchener,10555
+Kirsten Wandschneider,10556
+Jeremy D. Goldhaber-Fiebert,10557
+David M. Studdert,10558
+Monica S. Farid,10559
+Jay Bhattacharya,10560
+Mark Pauly,10561
+Scott Harrington,10562
+Adam Leive,10563
+Mark Gertler,10564
+Peter Karadi,10565
+Alberto Cavallo,10566
+Brent Neiman,10567
+Roberto Rigobon,10568
+Liran Einav,10569
+Amy Finkelstein,10570
+Heidi Williams,10571
+Roger H. Gordon,10572
+Michael D. Bordo,10574
+Ehsan U. Choudhri,10575
+Giorgio Fazio,10576
+Ronald MacDonald,10577
+Lewis Glinert,10580
+Angela Hung,10581
+Gabriel Chodorow-Reich,10583
+Naomi R. Lamoreaux,10584
+Peter H. Lindert,10585
+H. Elizabeth Peters,10586
+Jamie Rubenstein Taber,10588
+Uri Gneezy,10589
+Andreas Leibbrandt,10590
+Matthew A. Turner,10592
+Nikhil Patel,10593
+Zhi Wang,10594
+Shang-Jin Wei,10595
+Christoph E. Boehm,10596
+Christopher L. House,10597
+Leonardo Melosi,10598
+Felipe Kast,10599
+Dina Pomeranz,10600
+John Komlos,10601
+David Lucca,10602
+Amit Seru,10603
+Joshua Aizenman,10605
+Benjamin Hansen,10835
+Angus Deaton,10607
+Bettina Aten,10608
+Esben Hedegaard,10609
+Robert J. Hodrick,10610
+Marcin Kacperczyk,10611
+Jaromir B. Nosal,10612
+Luminita Stevens,10613
+Mario J. Crucini,10614
+Gregor W. Smith,10615
+John Fernald,10616
+Lynne G. Zucker,10617
+Michael R. Darby,10618
+Manudeep Bhuller,10619
+Magne Mogstad,10675
+Kjell G. Salvanes,10621
+Raquel Fernández,10622
+Joyce Cheng Wong,10623
+Michael B. Devereux,10624
+James Yetman,10625
+Laurent Bouton,10626
+Paola Conconi,10627
+Francisco Pino,10628
+Maurizio Zanardi,10629
+Efraim Benmelech,10630
+Nittai Bergman,10631
+Anna Milanez,10632
+Vladimir Mukharlyamov,10633
+Tri Vi Dang,10634
+Gary Gorton,10635
+Bengt Holmström,10636
+Guillermo Ordonez,10637
+Marianne Bertrand,10638
+Sandra E. Black,10639
+Sissel Jensen,10640
+Xavier D'Haultfoeuille,10642
+Yichong Zhang,10644
+Stephen Chaudoin,10645
+Zachary Peskowitz,10646
+Christopher Stanton,10647
+Arun G. Chandrasekhar,10772
+Cynthia Kinnan,10649
+Horacio Larreguy,10773
+Jennifer Muz,10651
+Santosh Anagol,10652
+Thomas Fujiwara,10653
+Kate Ambler,10654
+S. Borağan Aruoba,10657
+Jesús Fernández-Villaverde,10658
+Ashish Arora,10659
+Wesley M. Cohen,10660
+John P. Walsh,10661
+Stefan Nagel,10662
+Mark Jacobsen,10663
+Jacob LaRiviere,10664
+Michael Price,10905
+Barry Eichengreen,10666
+Arnaud J. Mehl,10667
+Livia Chițu,10668
+Gary Richardson,10669
+Bruce I. Carlin,10670
+Li Jiang,10671
+Stephen A. Spiller,10672
+Mark Schankerman,10673
+Lasse Eika,10674
+Basit Zafar,10676
+Seema Jayachandran,10677
+Kory Kroft,10678
+Fabian Lange,10679
+Matthew J. Notowidigdo,10680
+Lawrence F. Katz,10681
+René M. Stulz,10682
+Weerachart T. Kilenthong,10683
+Robert M. Townsend,10684
+Matthew O. Jackson,10912
+Mark Aguiar,10686
+Manuel Amador,10687
+Gita Gopinath,10689
+Asli Demirgüç-Kunt,10690
+Edward J. Kane,10691
+Luc Laeven,10692
+Brian Beach,10693
+Joseph Ferrie,10694
+Martin Saavedra,10695
+Werner Troesken,10696
+Soren T. Anderson,10697
+Ryan Kellogg,10698
+Stephen W. Salant,10699
+Scott Cunningham,10700
+Manisha Shah,10701
+Qingyi Freda Drechsler,10702
+Derek Neal,10703
+Armin Rick,10704
+Alejandro J. Ganimian,10705
+Richard J. Murnane,10706
+Ricardo Correa,10707
+Linda S. Goldberg,10711
+Tara Rice,10709
+Claudia M. Buch,10710
+Morris A. Davis,10712
+Samuel G. Hanson,10714
+Jeremy C. Stein,10716
+Robert W. Vishny,10717
+Juan Carlos Suárez Serrato,10857
+Owen Zidar,10719
+Raj Chetty,10720
+Emmanuel Saez,10721
+László Sándor,10722
+Edward L. Glaeser,10723
+Joshua D. Gottlieb,10724
+Oren Ziv,10725
+Keith M. Drake,10726
+Martha A. Starr,10727
+Christopher Gedge,10729
+James W. Roberts,10730
+Andrew Sweeting,10731
+Rui C. Mano,10732
+Bart J. Bronnenberg,10733
+Jean-Pierre Dubé,10734
+Matthew Gentzkow,10735
+Jesse M. Shapiro,10736
+Kevin Haninger,10737
+Lala Ma,10738
+Christopher Timmins,10739
+David Boisclair,10740
+Pierre-Carl Michaud,10742
+Lorenz Kueng,10743
+Evgeny Yakovlev,10744
+Karthik Muralidharan,10745
+Jishnu Das,10746
+Alaka Holla,10747
+Aakash Mohpal,10748
+Alex Edmans,10749
+Lucius Li,10750
+Chendi Zhang,10751
+Philippe Aghion,10752
+Matthew Jackson,10753
+David I. Levine,10754
+Dongho Song,10756
+Amir Yaron,10757
+Orazio Attanasio,10758
+Britta Augsburg,10759
+René Böheim,10760
+Thomas Leoni,10761
+Florian Heiss,10762
+Steven F. Venti,10763
+Guido Matias Cortes,10765
+Nir Jaimovich,10766
+Christopher J. Nekarda,10767
+Henry E. Siu,10768
+Diane Whitmore Schanzenbach,10769
+Mary Zaki,10770
+Emily Breza,10771
+Justin Murfin,10774
+Mitchell Petersen,10775
+Brian G. Knight,10776
+Francine Lafontaine,10780
+Kathryn Shaw,10781
+Brianna Cardiff-Hicks,10779
+Seunghoon Na,10782
+Stephanie Schmitt-Grohé,10783
+Martin Uribe,10784
+Vivian Z. Yue,10785
+Sylvain Chassang,10786
+Gerard Padró i Miquel,10787
+Ugo Panizza,10788
+Hanming Fang,10789
+Quanlin Gu,10790
+Li-An Zhou,10791
+Brigitte C. Madrian,10792
+David Backus,10793
+Axelle Ferriere,10794
+Stanley Zin,10795
+David Bradford,10796
+Charles Courtemanche,10797
+Garth Heutel,10798
+Patrick McAlvanah,10799
+Christopher Ruhm,10800
+Thomas Ahn,10801
+Jacob L. Vigdor,10802
+Lauren Cohen,10803
+Umit Gurun,10804
+Scott Duke Kominers,10805
+Haichao Fan,10806
+Yao Amber Li,10807
+Stephen R. Yeaple,10808
+Alan S. Blinder,10809
+Mark W. Watson,10810
+Alberto Abadie,10811
+Susan Athey,10812
+Guido W. Imbens,10813
+Jeffrey M. Wooldridge,10814
+Roberto Bonfatti,10815
+Kevin Hjortshøj O'Rourke,10816
+Kenneth Lee,10817
+Eric Brewer,10818
+Carson Christiano,10819
+Francis Meyo,10820
+Edward Miguel,10821
+Matthew Podolsky,10822
+Javier Rosa,10823
+Catherine Wolfram,10824
+YiLi Chien,10825
+Harold L. Cole,10826
+Judith Scott-Clayton,10828
+Veronica Minaya,10829
+Mark Egan,10830
+Tomas J. Philipson,10831
+Pablo D. Fajgelbaum,10832
+Amit K. Khandelwal,10833
+D. Mark Anderson,10834
+Daniel I. Rees,10836
+Don Fullerton,10837
+Li Gan,10838
+Miwa Hattori,10839
+Daniel H. Karney,10840
+Alan Moreira,10841
+Tatiana Didier,10843
+Ross Levine,10844
+Sergio L. Schmukler,10845
+Michael D. Frakes,10846
+Melissa F. Wasserman,10847
+Martin Ravallion,10848
+Jens Hilscher,10849
+Alon Raviv,10850
+Ricardo Reis,10851
+Joel M. David,10852
+Hugo A. Hopenhayn,10853
+Venky Venkateswaran,10854
+Bryan S. Graham,10855
+Charles E. Gibbons,10856
+Michael B. Urbancic,10858
+Eric J. Allen,10859
+Patricia M. Dechow,10860
+Devin G. Pope,10861
+George Wu,10862
+Sean Lewis-Faupel,10863
+Yusuf Neggers,10864
+Benjamin A. Olken,10865
+Rohini Pande,10866
+Gian Luca Clementi,10867
+Piero Gottardi,10868
+Helios Herrera,10869
+Guillermo Ordoñez,10870
+Christoph Trebesch,10871
+Christopher A. Parsons,10882
+Johan Sulaeman,10873
+Sheridan Titman,10883
+Alan C. Monheit,10875
+Irina Grafova,10876
+Rizie Kumar,10877
+Mark Hoekstra,10878
+Steven L. Puller,10879
+Jeremy West,10880
+Casey Dougal,10881
+Nathaniel Hendren,10884
+Solomon M. Hsiang,10885
+Amir S. Jina,10886
+Joanne W. Hsu,10887
+David A. Matsa,10888
+Brian T. Melzer,10889
+Gabriel M. Ahlfeldt,10890
+Daniel M. Sturm,10892
+Nikolaus Wolf,10893
+James D. Hamilton,10894
+Raluca E. Dragusanu,10895
+Daniele Giovannucci,10896
+Nathan Nunn,10897
+Ramana Nanda,10898
+Matthew Rhodes-Kropf,10899
+Michael Geruso,10900
+Thomas G. McGuire,10901
+Danny Yagan,10902
+Anita Castledine,10903
+Klaus Moeltner,10904
+Shawn Stoddard,10906
+Jessica Wolpaw Reyes,10907
+Gerald Carlino,10908
+Janet Currie,10910
+Hannes Schwandt,10911
+Oliver D. Bunn,10913
+Robert J. Shiller,10914
+Melissa A. Boyle,10915
+Francis A. Longstaff,10917
+Ilya A. Strebulaev,10918
+Jesse Margolis,10919
+Michael Grossman,10921
+Shin-Yi Chou,10922
+Marinho Bertanha,10923
+Petra Moser,10924
+Mercedes Delgado,10925
+Michael E. Porter,10926
+Scott Stern,10927
+Anirban Basu,10928
+Jianjun Miao,10929
+Tao Zha,10959
+Judd B. Kessler,10932
+Alvin E. Roth,10933
+Peter Cappelli,10934
+Rachel Heath,10935
+Byungkyu Lee,10937
+Dalton Conley,10938
+Hannah Trachtman,10939
+Andrew Steinkruger,10940
+Mackenzie Wood,10941
+Adam Wooster,10942
+James J. Murphy,10944
+Justin M. Rao,10945
+Yin-Wong Cheung,10946
+Hiro Ito,10947
+Lori Beaman,10948
+Bram Thuysbaert,10950
+Christopher Udry,10951
+Yaw Nyarko,10952
+Shing-Yi Wang,10953
+Sheila M. Olmstead,10954
+Hilary Sigman,10955
+Andrew Foerster,10956
+Juan Rubio-Ramírez,10957
+Daniel F. Waggoner,10958
+Peter Benczur,10960
+Tom Nicholas,10962
+William A. Pizer,10963
+Andrew J. Yates,10964
+Lars Peter Hansen,10965
+David Autor,10966
+David Dorn,10967
+Gordon H. Hanson,10968
+Brendan Price,10969
+Alan Krueger,10970
+Alexandre Mas,10971
+Xiaotong Niu,10972
+Christopher Cotton,10973
+Brent R. Hickman,10974
+Joseph P. Price,10975
+Daniel S. Hamermesh,10976
+Daiji Kawaguchi,10977
+Jungmin Lee,10978
+Arik Levinson,10979

@@ -1,0 +1,902 @@
+authorName,authorID,firstname,surname
+John Y. Campbell,10001,John,Campbell
+Tarun Ramadorai,10002,Tarun,Ramadorai
+Benjamin Ranish,10003,Benjamin,Ranish
+Satoshi Shimizutani,10004,Satoshi,Shimizutani
+Takashi Oshio,10005,Takashi,Oshio
+Mayu Fujii,10006,Mayu,Fujii
+Julian di Giovanni,10007,Julian,Giovanni
+Andrei Levchenko,10160,Andrei,Levchenko
+Francesc Ortega,10009,Francesc,Ortega
+Ron Alquist,10010,Ron,Alquist
+Saroj Bhattarai,10011,Saroj,Bhattarai
+Olivier Coibion,10012,Olivier,Coibion
+Daron Acemoglu,10013,Daron,Acemoglu
+Suresh Naidu,10540,Suresh,Naidu
+Pascual Restrepo,10015,Pascual,Restrepo
+James A. Robinson,10242,James,Robinson
+Eric Helland,10017,Eric,Helland
+Darius N. Lakdawalla,10018,Darius,Lakdawalla
+Anup Malani,10019,Anup,Malani
+Seth A. Seabury,10020,Seth,Seabury
+Theodore J. Joyce,10021,Theodore,Joyce
+Sean Crockett,10022,Sean,Crockett
+David A. Jaeger,10023,David,Jaeger
+Onur Altindag,10024,Onur,Altindag
+Stephen D. O'Connell,10025,Stephen,O'Connell
+Michael Hallsworth,10026,Michael,Hallsworth
+John List,10027,John,List
+Robert Metcalfe,10028,Robert,Metcalfe
+Ivo Vlaev,10029,Ivo,Vlaev
+Daan Van Soest,10030,Daan,Soest
+Jan Stoop,10031,Jan,Stoop
+Haiwen Zhou,10032,Haiwen,Zhou
+Patrick Bolton,10033,Patrick,Bolton
+Hui Chen,10034,Hui,Chen
+Neng Wang,10035,Neng,Wang
+Dolan Antenucci,10036,Dolan,Antenucci
+Michael Cafarella,10037,Michael,Cafarella
+Margaret Levenstein,10038,Margaret,Levenstein
+Christopher Ré,10039,Christopher,Ré
+Matthew D. Shapiro,10040,Matthew,Shapiro
+S. Nageeb Ali,10041,S.,Ali
+B. Douglas Bernheim,10042,B.,Bernheim
+Xiaochen Fan,10043,Xiaochen,Fan
+Ajay K. Agrawal,10044,Ajay,Agrawal
+John McHale,10045,John,McHale
+Alex Oettl,10046,Alex,Oettl
+Saziye P. Akyol,10047,Saziye,Akyol
+Kala Krishna,10048,Kala,Krishna
+Joseph E. Stiglitz,10049,Joseph,Stiglitz
+Sumit Agarwal,10050,Sumit,Agarwal
+Gene Amromin,10051,Gene,Amromin
+Itzhak Ben-David,10142,Itzhak,Ben-David
+Souphala Chomsisengphet,10053,Souphala,Chomsisengphet
+Yan Zhang,10054,Yan,Zhang
+Rena M. Conti,10055,Rena,Conti
+Ernst R. Berndt,10056,Ernst,Berndt
+Jason Hockenberry,10920,Jason,Hockenberry
+Lorens Helmchen,10058,Lorens,Helmchen
+Devin Michelle Bunten,10059,Devin,Bunten
+Matthew E. Kahn,10060,Matthew,Kahn
+Sébastien Houde,10061,Sébastien,Houde
+Casey B. Mulligan,10062,Casey,Mulligan
+Joseph P. Newhouse,10063,Joseph,Newhouse
+Mary Price,10064,Mary,Price
+J. Michael McWilliams,10065,J.,McWilliams
+John Hsu,10066,John,Hsu
+Thomas McGuire,10728,Thomas,McGuire
+Ariel Pakes,10068,Ariel,Pakes
+Ran Abramitzky,10069,Ran,Abramitzky
+Isabelle Sin,10070,Isabelle,Sin
+Nava Ashraf,10071,Nava,Ashraf
+Diego Aycinena,10655,Diego,Aycinena
+Claudia Martinez,10073,Claudia,Martinez
+Dean Yang,10755,Dean,Yang
+Vasco M. Carvalho,10075,Vasco,Carvalho
+Nico Voigtländer,10554,Nico,Voigtländer
+George J. Borjas,10077,George,Borjas
+Kirk B. Doran,10078,Kirk,Doran
+Gary B. Gorton,10079,Gary,Gorton
+Andrew Metrick,10080,Andrew,Metrick
+Lei Xie,10081,Lei,Xie
+Benjamin E. Hermalin,10082,Benjamin,Hermalin
+Michael S. Weisbach,10083,Michael,Weisbach
+Aldo Musacchio,10084,Aldo,Musacchio
+Andre Martinez,10085,Andre,Martinez
+Martina Viarengo,10086,Martina,Viarengo
+Luc Behaghel,10087,Luc,Behaghel
+Didier Blanchet,10088,Didier,Blanchet
+Muriel Roger,10089,Muriel,Roger
+Jesper Bagger,10090,Jesper,Bagger
+Rasmus Lentz,10091,Rasmus,Lentz
+Jeremy Atack,10092,Jeremy,Atack
+Matthew S. Jaremski,10499,Matthew,Jaremski
+Peter L. Rousseau,10500,Peter,Rousseau
+Galina Hale,10095,Galina,Hale
+Maurice Obstfeld,10166,Maurice,Obstfeld
+Brigham Frandsen,10097,Brigham,Frandsen
+James B. Rebitzer,10098,James,Rebitzer
+Alain Jousten,10099,Alain,Jousten
+Mathieu Lefebvre,10100,Mathieu,Lefebvre
+Sergio Perelman,10101,Sergio,Perelman
+Chris Forman,10102,Chris,Forman
+Avi Goldfarb,10103,Avi,Goldfarb
+Shane Greenstein,10104,Shane,Greenstein
+Annamaria Conti,10105,Annamaria,Conti
+Christopher C. Liu,10106,Christopher,Liu
+Simon Gilchrist,10107,Simon,Gilchrist
+Jae W. Sim,10108,Jae,Sim
+Egon Zakrajšek,10247,Egon,Zakrajšek
+Hezekiah Agwara,10110,Hezekiah,Agwara
+Philip Auerswald,10111,Philip,Auerswald
+Brian Higginbotham,10112,Brian,Higginbotham
+Lawrence J. Christiano,10113,Lawrence,Christiano
+Martin S. Eichenbaum,10114,Martin,Eichenbaum
+Mathias Trabandt,10115,Mathias,Trabandt
+Benoît Mojon,10116,Benoît,Mojon
+Graciela L. Kaminsky,10117,Graciela,Kaminsky
+Pablo Vega-García,10118,Pablo,Vega-García
+Florian Scheuer,10119,Florian,Scheuer
+Alexander Wolitzky,10120,Alexander,Wolitzky
+Jess Benhabib,10121,Jess,Benhabib
+Pengfei Wang,10930,Pengfei,Wang
+Sherry A. Glied,10123,Sherry,Glied
+Kamran Bilir,10124,Kamran,Bilir
+Davin Chor,10125,Davin,Chor
+Kalina Manova,10126,Kalina,Manova
+Dean Karlan,10949,Dean,Karlan
+Daniel H. Wood,10128,Daniel,Wood
+Hunt Allcott,10129,Hunt,Allcott
+Richard Sweeney,10130,Richard,Sweeney
+David Neumark,10131,David,Neumark
+Helen Simpson,10132,Helen,Simpson
+Abhijit Banerjee,10133,Abhijit,Banerjee
+Xin Meng,10134,Xin,Meng
+Tommaso Porzio,10135,Tommaso,Porzio
+Nancy Qian,10136,Nancy,Qian
+Ben Mermelstein,10137,Ben,Mermelstein
+Volker Nocke,10138,Volker,Nocke
+Mark A. Satterthwaite,10139,Mark,Satterthwaite
+Michael D. Whinston,10140,Michael,Whinston
+Brian Baugh,10141,Brian,Baugh
+Hoonsuk Park,10143,Hoonsuk,Park
+Thomas C. Buchmueller,10144,Thomas,Buchmueller
+Sarah Miller,10145,Sarah,Miller
+Marko Vujicic,10146,Marko,Vujicic
+Matias Busso,10147,Matias,Busso
+Sebastian Galiani,10178,Sebastian,Galiani
+Marco Del Negro,10149,Marco,Negro
+Marc P. Giannoni,10150,Marc,Giannoni
+Frank Schorfheide,10151,Frank,Schorfheide
+Michael LeGower,10152,Michael,LeGower
+Randall Walsh,10153,Randall,Walsh
+Mark Rosenzweig,10154,Mark,Rosenzweig
+Junsen Zhang,10155,Junsen,Zhang
+Mariacristina De Nardi,10156,Mariacristina,Nardi
+Fang Yang,10157,Fang,Yang
+Naci H. Mocan,10158,Naci,Mocan
+Christian Raschke,10159,Christian,Raschke
+Isabelle Mejean,10161,Isabelle,Mejean
+Jerry Tsai,10162,Jerry,Tsai
+Jessica A. Wachter,10163,Jessica,Wachter
+Robert C. Feenstra,10164,Robert,Feenstra
+Philip A. Luck,10165,Philip,Luck
+Katheryn N. Russ,10167,Katheryn,Russ
+Simon Johnson,10168,Simon,Johnson
+Raven Molloy,10169,Raven,Molloy
+Christopher L. Smith,10170,Christopher,Smith
+Abigail K. Wozniak,10171,Abigail,Wozniak
+Fredrik Andersson,10172,Fredrik,Andersson
+John C. Haltiwanger,10173,John,Haltiwanger
+Mark J. Kutzbach,10174,Mark,Kutzbach
+Henry O. Pollakowski,10175,Henry,Pollakowski
+Daniel H. Weinberg,10176,Daniel,Weinberg
+Nicolás Ajzenman,10177,Nicolás,Ajzenman
+Enrique Seira,10179,Enrique,Seira
+Lance Lochner,10180,Lance,Lochner
+Youngki Shin,10181,Youngki,Shin
+Sari Pekkala Kerr,10182,Sari,Kerr
+William R. Kerr,10909,William,Kerr
+William F. Lincoln,10184,William,Lincoln
+Carolin Pflueger,10185,Carolin,Pflueger
+Luis M. Viceira,10186,Luis,Viceira
+Francesco Franzoni,10187,Francesco,Franzoni
+Rabih Moussawi,10188,Rabih,Moussawi
+Robert F. Stambaugh,10189,Robert,Stambaugh
+Greg Kaplan,10190,Greg,Kaplan
+Giovanni L. Violante,10191,Giovanni,Violante
+Justin Weidner,10192,Justin,Weidner
+Daniel Elfenbein,10193,Daniel,Elfenbein
+Raymond Fisman,10194,Raymond,Fisman
+Brian McManus,10195,Brian,McManus
+Ralph Koijen,10196,Ralph,Koijen
+Tomas Philipson,10197,Tomas,Philipson
+Harald Uhlig,10198,Harald,Uhlig
+Bernard Herskovic,10199,Bernard,Herskovic
+Bryan T. Kelly,10200,Bryan,Kelly
+Hanno Lustig,10827,Hanno,Lustig
+Stijn Van Nieuwerburgh,10713,Stijn,Nieuwerburgh
+Margaret S. McMillan,10203,Margaret,McMillan
+Kenneth Harttgen,10204,Kenneth,Harttgen
+Howard Bodenhorn,10205,Howard,Bodenhorn
+Eugene N. White,10222,Eugene,White
+Arnaud Costinot,10207,Arnaud,Costinot
+Dave Donaldson,10208,Dave,Donaldson
+Cory B. Smith,10209,Cory,Smith
+Lynn M. Fisher,10210,Lynn,Fisher
+Lauren Lambie-Hanson,10211,Lauren,Lambie-Hanson
+Paul S. Willen,10212,Paul,Willen
+Francesco Bianchi,10213,Francesco,Bianchi
+Cosmin L. Ilut,10961,Cosmin,Ilut
+Martin Schneider,10215,Martin,Schneider
+Andrew Beath,10216,Andrew,Beath
+Fotini Christia,10217,Fotini,Christia
+Georgy Egorov,10218,Georgy,Egorov
+Ruben Enikolopov,10219,Ruben,Enikolopov
+Pierre-Cyrille Hautcoeur,10220,Pierre-Cyrille,Hautcoeur
+Angelo Riva,10221,Angelo,Riva
+Wojciech Kopczuk,10573,Wojciech,Kopczuk
+David J. Munroe,10224,David,Munroe
+Hefei Wen,10225,Hefei,Wen
+Janet R. Cummings,10227,Janet,Cummings
+Weerachart Kilenthong,10228,Weerachart,Kilenthong
+Robert Townsend,10229,Robert,Townsend
+Christina D. Romer,10230,Christina,Romer
+David H. Romer,10231,David,Romer
+Matthew Chesnes,10232,Matthew,Chesnes
+Weijia (Daisy) Dai,10233,Weijia,Dai
+Ginger Zhe Jin,10234,Ginger,Jin
+Yasushi Hamao,10235,Yasushi,Hamao
+Yongxiang Wang,10237,Yongxiang,Wang
+Daniel Bennett,10238,Daniel,Bennett
+Wesley Yin,10239,Wesley,Yin
+Isaías N. Chaves,10240,Isaías,Chaves
+Philip Osafo-Kwaako,10241,Philip,Osafo-Kwaako
+Giovanni Peri,10335,Giovanni,Peri
+Kevin Y. Shih,10244,Kevin,Shih
+Chad Sparber,10245,Chad,Sparber
+David López-Salido,10246,David,López-Salido
+Eric Hilt,10248,Eric,Hilt
+Donald S. Kenkel,10249,Donald,Kenkel
+Maximilian D. Schmeiser,10250,Maximilian,Schmeiser
+Carly J. Urban,10251,Carly,Urban
+Charles F. Manski,10252,Charles,Manski
+Paul Bergin,10253,Paul,Bergin
+Ling Feng,10254,Ling,Feng
+Ching-Yi Lin,10255,Ching-Yi,Lin
+Paul Beaudry,10256,Paul,Beaudry
+Dana Galizia,10257,Dana,Galizia
+Franck Portier,10258,Franck,Portier
+Nicholas Bloom,10259,Nicholas,Bloom
+Renata Lemos,10260,Renata,Lemos
+Raffaella Sadun,10261,Raffaella,Sadun
+Daniela Scur,10262,Daniela,Scur
+John Van Reenen,10263,John,Reenen
+Anna Aizer,10264,Anna,Aizer
+Shari Eli,10265,Shari,Eli
+Joseph P. Ferrie,10266,Joseph,Ferrie
+Adriana Lleras-Muney,10641,Adriana,Lleras-Muney
+Jaroslav Borovička,10268,Jaroslav,Borovička
+Lars P. Hansen,10528,Lars,Hansen
+Jose A. Scheinkman,10270,Jose,Scheinkman
+Emmanuel Farhi,10688,Emmanuel,Farhi
+Iván Werning,10272,Iván,Werning
+Pedro Bordalo,10273,Pedro,Bordalo
+Nicola Gennaioli,10274,Nicola,Gennaioli
+Andrei Shleifer,10715,Andrei,Shleifer
+Peter Temin,10276,Peter,Temin
+Allison Shertzer,10277,Allison,Shertzer
+Tate Twinam,10278,Tate,Twinam
+Randall P. Walsh,10279,Randall,Walsh
+Steve Cicala,10280,Steve,Cicala
+George M. Constantinides,10281,George,Constantinides
+Anisha Ghosh,10282,Anisha,Ghosh
+Laura Dague,10283,Laura,Dague
+Thomas DeLeire,10284,Thomas,DeLeire
+Lindsey Leininger,10285,Lindsey,Leininger
+Davide Cantoni,10286,Davide,Cantoni
+Yuyu Chen,10287,Yuyu,Chen
+David Y. Yang,10288,David,Yang
+Noam Yuchtman,10398,Noam,Yuchtman
+Y. Jane Zhang,10290,Y.,Zhang
+Kelly Noonan,10291,Kelly,Noonan
+Hope Corman,10292,Hope,Corman
+Nancy E. Reichman,10293,Nancy,Reichman
+Paul Bingley,10294,Paul,Bingley
+Nabanita Datta Gupta,10295,Nabanita,Gupta
+Michael Jorgensen,10296,Michael,Jorgensen
+Peder Pedersen,10297,Peder,Pedersen
+Drew D. Creal,10298,Drew,Creal
+Jing Cynthia Wu,10415,Jing,Wu
+W. Kip Viscusi,10300,W.,Viscusi
+Fan Dora Xia,10301,Fan,Xia
+C. Kirabo Jackson,10302,C.,Jackson
+Rucker Johnson,10303,Rucker,Johnson
+Claudia Persico,10304,Claudia,Persico
+Myrto Kalouptsidi,10305,Myrto,Kalouptsidi
+Courtney Coile,10306,Courtney,Coile
+Kevin S. Milligan,10307,Kevin,Milligan
+David A. Wise,10764,David,Wise
+Murillo Campello,10309,Murillo,Campello
+Rafael Perez Ribas,10310,Rafael,Ribas
+Yan Wang,10311,Yan,Wang
+Christian Broda,10312,Christian,Broda
+Jonathan A. Parker,10313,Jonathan,Parker
+Per Johansson,10314,Per,Johansson
+Lisa Laun,10315,Lisa,Laun
+Mårten Palme,10316,Mårten,Palme
+Raimond Maurer,10317,Raimond,Maurer
+Olivia S. Mitchell,10352,Olivia,Mitchell
+Ralph Rogalla,10319,Ralph,Rogalla
+Ivonne Siegelin,10320,Ivonne,Siegelin
+Alexander L. Brown,10321,Alexander,Brown
+Joanna N. Lahey,10916,Joanna,Lahey
+Kenneth S. Rogoff,10323,Kenneth,Rogoff
+Keith M. Marzilli Ericson,10324,Keith,Ericson
+Benjamin M. Friedman,10325,Benjamin,Friedman
+Massimo Morelli,10326,Massimo,Morelli
+Dominic Rohner,10327,Dominic,Rohner
+Christian Baker,10328,Christian,Baker
+Jeremy Bejarano,10329,Jeremy,Bejarano
+Richard W. Evans,10330,Richard,Evans
+Kenneth L. Judd,10331,Kenneth,Judd
+Kerk L. Phillips,10332,Kerk,Phillips
+Michele Battisti,10333,Michele,Battisti
+Gabriel Felbermayr,10334,Gabriel,Felbermayr
+Panu Poutvaara,10336,Panu,Poutvaara
+John A. List,10591,John,List
+Anya Savikhin Samek,10578,Anya,Samek
+Stefano Giglio,10339,Stefano,Giglio
+Matteo Maggiori,10399,Matteo,Maggiori
+Johannes Stroebel,10400,Johannes,Stroebel
+Michael T. Belongia,10342,Michael,Belongia
+Peter N. Ireland,10343,Peter,Ireland
+Julian C. Jamison,10344,Julian,Jamison
+Jonathan Zinman,10346,Jonathan,Zinman
+Andrew B. Bernard,10347,Andrew,Bernard
+Andreas Moxnes,10348,Andreas,Moxnes
+Karen Helene Ulltveit-Moe,10349,Karen,Ulltveit-Moe
+Robert L. Clark,10350,Robert,Clark
+Annamaria Lusardi,10741,Annamaria,Lusardi
+Jonathan B. Berk,10353,Jonathan,Berk
+Jules H. van Binsbergen,10354,Jules,Binsbergen
+Binying Liu,10355,Binying,Liu
+Ariel BenYishay,10356,Ariel,BenYishay
+A. Mushfiq Mobarak,10936,A.,Mobarak
+Leemore Dafny,10358,Leemore,Dafny
+Jonathan Gruber,10359,Jonathan,Gruber
+Christopher Ody,10360,Christopher,Ody
+Itamar Drechsler,10361,Itamar,Drechsler
+Alexi Savov,10842,Alexi,Savov
+Philipp Schnabl,10363,Philipp,Schnabl
+Marianne P. Bitler,10364,Marianne,Bitler
+Jonah B. Gelbach,10365,Jonah,Gelbach
+Hilary W. Hoynes,10366,Hilary,Hoynes
+Paulo Bastos,10367,Paulo,Bastos
+Joana Silva,10368,Joana,Silva
+Eric Verhoogen,10369,Eric,Verhoogen
+Bruno Crépon,10370,Bruno,Crépon
+Florencia Devoto,10371,Florencia,Devoto
+Esther Duflo,10372,Esther,Duflo
+William Pariente,10373,William,Pariente
+Pamela Jakiela,10376,Pamela,Jakiela
+Shachar Kariv,10377,Shachar,Kariv
+Thomas F. Hellmann,10378,Thomas,Hellmann
+Veikko Thiele,10379,Veikko,Thiele
+Silvia Barbaresco,10380,Silvia,Barbaresco
+Charles J. Courtemanche,10381,Charles,Courtemanche
+Yanling Qi,10382,Yanling,Qi
+Karthik Krishnan,10383,Karthik,Krishnan
+Debarshi Nandy,10384,Debarshi,Nandy
+Manju Puri,10385,Manju,Puri
+Nico Voigtlaender,10386,Nico,Voigtlaender
+Hans-Joachim Voth,10387,Hans-Joachim,Voth
+Emin Dinlersoz,10388,Emin,Dinlersoz
+Jeremy Greenwood,10389,Jeremy,Greenwood
+Henry Hyatt,10390,Henry,Hyatt
+Atif Mian,10391,Atif,Mian
+Amir Sufi,10392,Amir,Sufi
+Leonardo Bursztyn,10393,Leonardo,Bursztyn
+Michael Callen,10394,Michael,Callen
+Bruno Ferman,10395,Bruno,Ferman
+Saad Gulzar,10396,Saad,Gulzar
+Ali Hasanain,10397,Ali,Hasanain
+Fernando Alvarez,10401,Fernando,Alvarez
+Hervé Le Bihan,10402,Hervé,Bihan
+Francesco Lippi,10403,Francesco,Lippi
+David Cutler,10404,David,Cutler
+Wei Huang,10405,Wei,Huang
+Alberto Bisin,10407,Alberto,Bisin
+Shenghao Zhu,10408,Shenghao,Zhu
+Charles Yuji Horioka,10409,Charles,Horioka
+Seth Freedman,10410,Seth,Freedman
+Haizhen Lin,10411,Haizhen,Lin
+Kosali Simon,10587,Kosali,Simon
+Joshua S. Gans,10417,Joshua,Gans
+Kinda Hachem,10414,Kinda,Hachem
+Martin C. Byford,10416,Martin,Byford
+Brian Jacob,10418,Brian,Jacob
+Max Kapustin,10419,Max,Kapustin
+Jens Ludwig,10420,Jens,Ludwig
+Anil K. Kashyap,10421,Anil,Kashyap
+Dimitrios P. Tsomocos,10422,Dimitrios,Tsomocos
+Alexandros P. Vardoulakis,10423,Alexandros,Vardoulakis
+Ming-Jen Lin,10424,Ming-Jen,Lin
+Elaine M. Liu,10425,Elaine,Liu
+Brian Clark,10426,Brian,Clark
+Clément Joubert,10427,Clément,Joubert
+Arnaud Maurel,10643,Arnaud,Maurel
+Lorenzo Caliendo,10429,Lorenzo,Caliendo
+Fernando Parro,10430,Fernando,Parro
+Esteban Rossi-Hansberg,10431,Esteban,Rossi-Hansberg
+Pierre-Daniel Sarte,10432,Pierre-Daniel,Sarte
+Madeline Zavodny,10433,Madeline,Zavodny
+Greg Fischer,10434,Greg,Fischer
+Margaret McConnell,10436,Margaret,McConnell
+Pia Raffler,10437,Pia,Raffler
+Tom Blake,10438,Tom,Blake
+Chris Nosko,10439,Chris,Nosko
+Steven Tadelis,10440,Steven,Tadelis
+Gharad Bryan,10441,Gharad,Bryan
+Shyamal Chowdhury,10442,Shyamal,Chowdhury
+Ahmed Mushfiq Mobarak,10443,Ahmed,Mobarak
+Joshua D. Angrist,10444,Joshua,Angrist
+Erich Battistin,10445,Erich,Battistin
+Daniela Vuri,10446,Daniela,Vuri
+Francesco Giavazzi,10447,Francesco,Giavazzi
+Ivan Petkov,10448,Ivan,Petkov
+Fabio Schiantarelli,10449,Fabio,Schiantarelli
+David Berger,10450,David,Berger
+Joseph Vavra,10451,Joseph,Vavra
+Stephen G. Dimmock,10452,Stephen,Dimmock
+William C. Gerken,10453,William,Gerken
+Zoran Ivković,10454,Zoran,Ivković
+Scott J. Weisbenner,10455,Scott,Weisbenner
+Bernard Harris,10456,Bernard,Harris
+Roderick Floud,10457,Roderick,Floud
+Sok Chul Hong,10458,Sok,Hong
+Sarah Cohodes,10459,Sarah,Cohodes
+Daniel Grossman,10460,Daniel,Grossman
+Samuel Kleiner,10461,Samuel,Kleiner
+Michael F. Lovenheim,10462,Michael,Lovenheim
+Roberto Perotti,10463,Roberto,Perotti
+Catherine C. Eckel,10464,Catherine,Eckel
+David Herberich,10465,David,Herberich
+Jonathan Meer,10470,Jonathan,Meer
+Christopher Afendulis,10526,Christopher,Afendulis
+Anna Sinaiko,10468,Anna,Sinaiko
+Richard Frank,10469,Richard,Frank
+J. Forrest Williams,10471,J.,Williams
+Robert E. Hall,10472,Robert,Hall
+James Andreoni,10943,James,Andreoni
+Andy Brownback,10474,Andy,Brownback
+Laurence M. Ball,10475,Laurence,Ball
+Lucas Davis,10476,Lucas,Davis
+Catherine Hausman,10477,Catherine,Hausman
+Jaewon Choi,10478,Jaewon,Choi
+Matthew P. Richardson,10479,Matthew,Richardson
+Robert F. Whitelaw,10480,Robert,Whitelaw
+Dani Rodrik,10481,Dani,Rodrik
+Pierre-André Chiappori,10482,Pierre-André,Chiappori
+Costas Meghir,10487,Costas,Meghir
+Daniel Andrei,10484,Daniel,Andrei
+Bruce Carlin,10485,Bruce,Carlin
+Michael Hasler,10486,Michael,Hasler
+Steven Shavell,10488,Steven,Shavell
+Tarek A. Hassan,10489,Tarek,Hassan
+Thomas M. Mertens,10490,Thomas,Mertens
+Cosmin Ilut,10491,Cosmin,Ilut
+Melissa S. Kearney,10492,Melissa,Kearney
+Phillip B. Levine,10493,Phillip,Levine
+Asako S. Moriya,10509,Asako,Moriya
+Alberto Galasso,10496,Alberto,Galasso
+Matthew Mitchell,10497,Matthew,Mitchell
+Gabor Virag,10498,Gabor,Virag
+David le Bris,10501,David,Bris
+William N. Goetzmann,10502,William,Goetzmann
+Sébastien Pouget,10503,Sébastien,Pouget
+Enrique G. Mendoza,10504,Enrique,Mendoza
+Linda L. Tesar,10505,Linda,Tesar
+Jing Zhang,10506,Jing,Zhang
+Laura Salisbury,10507,Laura,Salisbury
+Yaa Akosa Antwi,10508,Yaa,Antwi
+Aileen Heinberg,10582,Aileen,Heinberg
+Angela A. Hung,10512,Angela,Hung
+Arie Kapteyn,10579,Arie,Kapteyn
+Joanne Yoong,10516,Joanne,Yoong
+Charles D. Kolstad,10517,Charles,Kolstad
+Rafael La Porta,10518,Rafael,Porta
+Joseph E. Aldy,10520,Joseph,Aldy
+Seamus J. Smyth,10521,Seamus,Smyth
+Oliver Hart,10522,Oliver,Hart
+Luigi Zingales,10523,Luigi,Zingales
+Karen Stockley,10524,Karen,Stockley
+Michael E. Chernew,10527,Michael,Chernew
+José A. Scheinkman,10529,José,Scheinkman
+Frederico Belo,10530,Frederico,Belo
+Xiaoji Lin,10531,Xiaoji,Lin
+Fan Yang,10532,Fan,Yang
+Kalena Cortes,10533,Kalena,Cortes
+Joshua Goodman,10534,Joshua,Goodman
+Takako Nomi,10535,Takako,Nomi
+David Dranove,10536,David,Dranove
+Craig Garthwaite,10537,Craig,Garthwaite
+Manuel Hermosilla,10538,Manuel,Hermosilla
+Oeindrila Dube,10539,Oeindrila,Dube
+Matthias Doepke,10541,Matthias,Doepke
+Fabrizio Zilibotti,10542,Fabrizio,Zilibotti
+Ian W.R. Martin,10543,Ian,Martin
+Robert S. Pindyck,10544,Robert,Pindyck
+Patrick Francois,10545,Patrick,Francois
+Ilia Rainer,10546,Ilia,Rainer
+Francesco Trebbi,10604,Francesco,Trebbi
+Pablo Fajgelbaum,10548,Pablo,Fajgelbaum
+Stephen J. Redding,10891,Stephen,Redding
+Günther Fink,10550,Günther,Fink
+B. Kelsey Jack,10551,B.,Jack
+Felix Masiye,10552,Felix,Masiye
+Mara P. Squicciarini,10553,Mara,Squicciarini
+Kris James Mitchener,10555,Kris,Mitchener
+Kirsten Wandschneider,10556,Kirsten,Wandschneider
+Jeremy D. Goldhaber-Fiebert,10557,Jeremy,Goldhaber-Fiebert
+David M. Studdert,10558,David,Studdert
+Monica S. Farid,10559,Monica,Farid
+Jay Bhattacharya,10560,Jay,Bhattacharya
+Mark Pauly,10561,Mark,Pauly
+Scott Harrington,10562,Scott,Harrington
+Adam Leive,10563,Adam,Leive
+Mark Gertler,10564,Mark,Gertler
+Peter Karadi,10565,Peter,Karadi
+Alberto Cavallo,10566,Alberto,Cavallo
+Brent Neiman,10567,Brent,Neiman
+Roberto Rigobon,10568,Roberto,Rigobon
+Liran Einav,10569,Liran,Einav
+Amy Finkelstein,10570,Amy,Finkelstein
+Heidi Williams,10571,Heidi,Williams
+Roger H. Gordon,10572,Roger,Gordon
+Michael D. Bordo,10574,Michael,Bordo
+Ehsan U. Choudhri,10575,Ehsan,Choudhri
+Giorgio Fazio,10576,Giorgio,Fazio
+Ronald MacDonald,10577,Ronald,MacDonald
+Lewis Glinert,10580,Lewis,Glinert
+Angela Hung,10581,Angela,Hung
+Gabriel Chodorow-Reich,10583,Gabriel,Chodorow-Reich
+Naomi R. Lamoreaux,10584,Naomi,Lamoreaux
+Peter H. Lindert,10585,Peter,Lindert
+H. Elizabeth Peters,10586,H.,Peters
+Jamie Rubenstein Taber,10588,Jamie,Taber
+Uri Gneezy,10589,Uri,Gneezy
+Andreas Leibbrandt,10590,Andreas,Leibbrandt
+Matthew A. Turner,10592,Matthew,Turner
+Nikhil Patel,10593,Nikhil,Patel
+Zhi Wang,10594,Zhi,Wang
+Shang-Jin Wei,10595,Shang-Jin,Wei
+Christoph E. Boehm,10596,Christoph,Boehm
+Christopher L. House,10597,Christopher,House
+Leonardo Melosi,10598,Leonardo,Melosi
+Felipe Kast,10599,Felipe,Kast
+Dina Pomeranz,10600,Dina,Pomeranz
+John Komlos,10601,John,Komlos
+David Lucca,10602,David,Lucca
+Amit Seru,10603,Amit,Seru
+Joshua Aizenman,10605,Joshua,Aizenman
+Benjamin Hansen,10835,Benjamin,Hansen
+Angus Deaton,10607,Angus,Deaton
+Bettina Aten,10608,Bettina,Aten
+Esben Hedegaard,10609,Esben,Hedegaard
+Robert J. Hodrick,10610,Robert,Hodrick
+Marcin Kacperczyk,10611,Marcin,Kacperczyk
+Jaromir B. Nosal,10612,Jaromir,Nosal
+Luminita Stevens,10613,Luminita,Stevens
+Mario J. Crucini,10614,Mario,Crucini
+Gregor W. Smith,10615,Gregor,Smith
+John Fernald,10616,John,Fernald
+Lynne G. Zucker,10617,Lynne,Zucker
+Michael R. Darby,10618,Michael,Darby
+Manudeep Bhuller,10619,Manudeep,Bhuller
+Magne Mogstad,10675,Magne,Mogstad
+Kjell G. Salvanes,10621,Kjell,Salvanes
+Raquel Fernández,10622,Raquel,Fernández
+Joyce Cheng Wong,10623,Joyce,Wong
+Michael B. Devereux,10624,Michael,Devereux
+James Yetman,10625,James,Yetman
+Laurent Bouton,10626,Laurent,Bouton
+Paola Conconi,10627,Paola,Conconi
+Francisco Pino,10628,Francisco,Pino
+Maurizio Zanardi,10629,Maurizio,Zanardi
+Efraim Benmelech,10630,Efraim,Benmelech
+Nittai Bergman,10631,Nittai,Bergman
+Anna Milanez,10632,Anna,Milanez
+Vladimir Mukharlyamov,10633,Vladimir,Mukharlyamov
+Tri Vi Dang,10634,Tri,Dang
+Gary Gorton,10635,Gary,Gorton
+Bengt Holmström,10636,Bengt,Holmström
+Guillermo Ordonez,10637,Guillermo,Ordonez
+Marianne Bertrand,10638,Marianne,Bertrand
+Sandra E. Black,10639,Sandra,Black
+Sissel Jensen,10640,Sissel,Jensen
+Xavier D'Haultfoeuille,10642,Xavier,D'Haultfoeuille
+Yichong Zhang,10644,Yichong,Zhang
+Stephen Chaudoin,10645,Stephen,Chaudoin
+Zachary Peskowitz,10646,Zachary,Peskowitz
+Christopher Stanton,10647,Christopher,Stanton
+Arun G. Chandrasekhar,10772,Arun,Chandrasekhar
+Cynthia Kinnan,10649,Cynthia,Kinnan
+Horacio Larreguy,10773,Horacio,Larreguy
+Jennifer Muz,10651,Jennifer,Muz
+Santosh Anagol,10652,Santosh,Anagol
+Thomas Fujiwara,10653,Thomas,Fujiwara
+Kate Ambler,10654,Kate,Ambler
+S. Borağan Aruoba,10657,S.,Aruoba
+Jesús Fernández-Villaverde,10658,Jesús,Fernández-Villaverde
+Ashish Arora,10659,Ashish,Arora
+Wesley M. Cohen,10660,Wesley,Cohen
+John P. Walsh,10661,John,Walsh
+Stefan Nagel,10662,Stefan,Nagel
+Mark Jacobsen,10663,Mark,Jacobsen
+Jacob LaRiviere,10664,Jacob,LaRiviere
+Michael Price,10905,Michael,Price
+Barry Eichengreen,10666,Barry,Eichengreen
+Arnaud J. Mehl,10667,Arnaud,Mehl
+Livia Chițu,10668,Livia,Chițu
+Gary Richardson,10669,Gary,Richardson
+Bruce I. Carlin,10670,Bruce,Carlin
+Li Jiang,10671,Li,Jiang
+Stephen A. Spiller,10672,Stephen,Spiller
+Mark Schankerman,10673,Mark,Schankerman
+Lasse Eika,10674,Lasse,Eika
+Basit Zafar,10676,Basit,Zafar
+Seema Jayachandran,10677,Seema,Jayachandran
+Kory Kroft,10678,Kory,Kroft
+Fabian Lange,10679,Fabian,Lange
+Matthew J. Notowidigdo,10680,Matthew,Notowidigdo
+Lawrence F. Katz,10681,Lawrence,Katz
+René M. Stulz,10682,René,Stulz
+Weerachart T. Kilenthong,10683,Weerachart,Kilenthong
+Robert M. Townsend,10684,Robert,Townsend
+Matthew O. Jackson,10912,Matthew,Jackson
+Mark Aguiar,10686,Mark,Aguiar
+Manuel Amador,10687,Manuel,Amador
+Gita Gopinath,10689,Gita,Gopinath
+Asli Demirgüç-Kunt,10690,Asli,Demirgüç-Kunt
+Edward J. Kane,10691,Edward,Kane
+Luc Laeven,10692,Luc,Laeven
+Brian Beach,10693,Brian,Beach
+Joseph Ferrie,10694,Joseph,Ferrie
+Martin Saavedra,10695,Martin,Saavedra
+Werner Troesken,10696,Werner,Troesken
+Soren T. Anderson,10697,Soren,Anderson
+Ryan Kellogg,10698,Ryan,Kellogg
+Stephen W. Salant,10699,Stephen,Salant
+Scott Cunningham,10700,Scott,Cunningham
+Manisha Shah,10701,Manisha,Shah
+Qingyi Freda Drechsler,10702,Qingyi,Drechsler
+Derek Neal,10703,Derek,Neal
+Armin Rick,10704,Armin,Rick
+Alejandro J. Ganimian,10705,Alejandro,Ganimian
+Richard J. Murnane,10706,Richard,Murnane
+Ricardo Correa,10707,Ricardo,Correa
+Linda S. Goldberg,10711,Linda,Goldberg
+Tara Rice,10709,Tara,Rice
+Claudia M. Buch,10710,Claudia,Buch
+Morris A. Davis,10712,Morris,Davis
+Samuel G. Hanson,10714,Samuel,Hanson
+Jeremy C. Stein,10716,Jeremy,Stein
+Robert W. Vishny,10717,Robert,Vishny
+Juan Carlos Suárez Serrato,10857,Juan,Serrato
+Owen Zidar,10719,Owen,Zidar
+Raj Chetty,10720,Raj,Chetty
+Emmanuel Saez,10721,Emmanuel,Saez
+László Sándor,10722,László,Sándor
+Edward L. Glaeser,10723,Edward,Glaeser
+Joshua D. Gottlieb,10724,Joshua,Gottlieb
+Oren Ziv,10725,Oren,Ziv
+Keith M. Drake,10726,Keith,Drake
+Martha A. Starr,10727,Martha,Starr
+Christopher Gedge,10729,Christopher,Gedge
+James W. Roberts,10730,James,Roberts
+Andrew Sweeting,10731,Andrew,Sweeting
+Rui C. Mano,10732,Rui,Mano
+Bart J. Bronnenberg,10733,Bart,Bronnenberg
+Jean-Pierre Dubé,10734,Jean-Pierre,Dubé
+Matthew Gentzkow,10735,Matthew,Gentzkow
+Jesse M. Shapiro,10736,Jesse,Shapiro
+Kevin Haninger,10737,Kevin,Haninger
+Lala Ma,10738,Lala,Ma
+Christopher Timmins,10739,Christopher,Timmins
+David Boisclair,10740,David,Boisclair
+Pierre-Carl Michaud,10742,Pierre-Carl,Michaud
+Lorenz Kueng,10743,Lorenz,Kueng
+Evgeny Yakovlev,10744,Evgeny,Yakovlev
+Karthik Muralidharan,10745,Karthik,Muralidharan
+Jishnu Das,10746,Jishnu,Das
+Alaka Holla,10747,Alaka,Holla
+Aakash Mohpal,10748,Aakash,Mohpal
+Alex Edmans,10749,Alex,Edmans
+Lucius Li,10750,Lucius,Li
+Chendi Zhang,10751,Chendi,Zhang
+Philippe Aghion,10752,Philippe,Aghion
+Matthew Jackson,10753,Matthew,Jackson
+David I. Levine,10754,David,Levine
+Dongho Song,10756,Dongho,Song
+Amir Yaron,10757,Amir,Yaron
+Orazio Attanasio,10758,Orazio,Attanasio
+Britta Augsburg,10759,Britta,Augsburg
+René Böheim,10760,René,Böheim
+Thomas Leoni,10761,Thomas,Leoni
+Florian Heiss,10762,Florian,Heiss
+Steven F. Venti,10763,Steven,Venti
+Guido Matias Cortes,10765,Guido,Cortes
+Nir Jaimovich,10766,Nir,Jaimovich
+Christopher J. Nekarda,10767,Christopher,Nekarda
+Henry E. Siu,10768,Henry,Siu
+Diane Whitmore Schanzenbach,10769,Diane,Schanzenbach
+Mary Zaki,10770,Mary,Zaki
+Emily Breza,10771,Emily,Breza
+Justin Murfin,10774,Justin,Murfin
+Mitchell Petersen,10775,Mitchell,Petersen
+Brian G. Knight,10776,Brian,Knight
+Francine Lafontaine,10780,Francine,Lafontaine
+Kathryn Shaw,10781,Kathryn,Shaw
+Brianna Cardiff-Hicks,10779,Brianna,Cardiff-Hicks
+Seunghoon Na,10782,Seunghoon,Na
+Stephanie Schmitt-Grohé,10783,Stephanie,Schmitt-Grohé
+Martin Uribe,10784,Martin,Uribe
+Vivian Z. Yue,10785,Vivian,Yue
+Sylvain Chassang,10786,Sylvain,Chassang
+Gerard Padró i Miquel,10787,Gerard,Miquel
+Ugo Panizza,10788,Ugo,Panizza
+Hanming Fang,10789,Hanming,Fang
+Quanlin Gu,10790,Quanlin,Gu
+Li-An Zhou,10791,Li-An,Zhou
+Brigitte C. Madrian,10792,Brigitte,Madrian
+David Backus,10793,David,Backus
+Axelle Ferriere,10794,Axelle,Ferriere
+Stanley Zin,10795,Stanley,Zin
+David Bradford,10796,David,Bradford
+Charles Courtemanche,10797,Charles,Courtemanche
+Garth Heutel,10798,Garth,Heutel
+Patrick McAlvanah,10799,Patrick,McAlvanah
+Christopher Ruhm,10800,Christopher,Ruhm
+Thomas Ahn,10801,Thomas,Ahn
+Jacob L. Vigdor,10802,Jacob,Vigdor
+Lauren Cohen,10803,Lauren,Cohen
+Umit Gurun,10804,Umit,Gurun
+Scott Duke Kominers,10805,Scott,Kominers
+Haichao Fan,10806,Haichao,Fan
+Yao Amber Li,10807,Yao,Li
+Stephen R. Yeaple,10808,Stephen,Yeaple
+Alan S. Blinder,10809,Alan,Blinder
+Mark W. Watson,10810,Mark,Watson
+Alberto Abadie,10811,Alberto,Abadie
+Susan Athey,10812,Susan,Athey
+Guido W. Imbens,10813,Guido,Imbens
+Jeffrey M. Wooldridge,10814,Jeffrey,Wooldridge
+Roberto Bonfatti,10815,Roberto,Bonfatti
+Kevin Hjortshøj O'Rourke,10816,Kevin,O'Rourke
+Kenneth Lee,10817,Kenneth,Lee
+Eric Brewer,10818,Eric,Brewer
+Carson Christiano,10819,Carson,Christiano
+Francis Meyo,10820,Francis,Meyo
+Edward Miguel,10821,Edward,Miguel
+Matthew Podolsky,10822,Matthew,Podolsky
+Javier Rosa,10823,Javier,Rosa
+Catherine Wolfram,10824,Catherine,Wolfram
+YiLi Chien,10825,YiLi,Chien
+Harold L. Cole,10826,Harold,Cole
+Judith Scott-Clayton,10828,Judith,Scott-Clayton
+Veronica Minaya,10829,Veronica,Minaya
+Mark Egan,10830,Mark,Egan
+Tomas J. Philipson,10831,Tomas,Philipson
+Pablo D. Fajgelbaum,10832,Pablo,Fajgelbaum
+Amit K. Khandelwal,10833,Amit,Khandelwal
+D. Mark Anderson,10834,D.,Anderson
+Daniel I. Rees,10836,Daniel,Rees
+Don Fullerton,10837,Don,Fullerton
+Li Gan,10838,Li,Gan
+Miwa Hattori,10839,Miwa,Hattori
+Daniel H. Karney,10840,Daniel,Karney
+Alan Moreira,10841,Alan,Moreira
+Tatiana Didier,10843,Tatiana,Didier
+Ross Levine,10844,Ross,Levine
+Sergio L. Schmukler,10845,Sergio,Schmukler
+Michael D. Frakes,10846,Michael,Frakes
+Melissa F. Wasserman,10847,Melissa,Wasserman
+Martin Ravallion,10848,Martin,Ravallion
+Jens Hilscher,10849,Jens,Hilscher
+Alon Raviv,10850,Alon,Raviv
+Ricardo Reis,10851,Ricardo,Reis
+Joel M. David,10852,Joel,David
+Hugo A. Hopenhayn,10853,Hugo,Hopenhayn
+Venky Venkateswaran,10854,Venky,Venkateswaran
+Bryan S. Graham,10855,Bryan,Graham
+Charles E. Gibbons,10856,Charles,Gibbons
+Michael B. Urbancic,10858,Michael,Urbancic
+Eric J. Allen,10859,Eric,Allen
+Patricia M. Dechow,10860,Patricia,Dechow
+Devin G. Pope,10861,Devin,Pope
+George Wu,10862,George,Wu
+Sean Lewis-Faupel,10863,Sean,Lewis-Faupel
+Yusuf Neggers,10864,Yusuf,Neggers
+Benjamin A. Olken,10865,Benjamin,Olken
+Rohini Pande,10866,Rohini,Pande
+Gian Luca Clementi,10867,Gian,Clementi
+Piero Gottardi,10868,Piero,Gottardi
+Helios Herrera,10869,Helios,Herrera
+Guillermo Ordoñez,10870,Guillermo,Ordoñez
+Christoph Trebesch,10871,Christoph,Trebesch
+Christopher A. Parsons,10882,Christopher,Parsons
+Johan Sulaeman,10873,Johan,Sulaeman
+Sheridan Titman,10883,Sheridan,Titman
+Alan C. Monheit,10875,Alan,Monheit
+Irina Grafova,10876,Irina,Grafova
+Rizie Kumar,10877,Rizie,Kumar
+Mark Hoekstra,10878,Mark,Hoekstra
+Steven L. Puller,10879,Steven,Puller
+Jeremy West,10880,Jeremy,West
+Casey Dougal,10881,Casey,Dougal
+Nathaniel Hendren,10884,Nathaniel,Hendren
+Solomon M. Hsiang,10885,Solomon,Hsiang
+Amir S. Jina,10886,Amir,Jina
+Joanne W. Hsu,10887,Joanne,Hsu
+David A. Matsa,10888,David,Matsa
+Brian T. Melzer,10889,Brian,Melzer
+Gabriel M. Ahlfeldt,10890,Gabriel,Ahlfeldt
+Daniel M. Sturm,10892,Daniel,Sturm
+Nikolaus Wolf,10893,Nikolaus,Wolf
+James D. Hamilton,10894,James,Hamilton
+Raluca E. Dragusanu,10895,Raluca,Dragusanu
+Daniele Giovannucci,10896,Daniele,Giovannucci
+Nathan Nunn,10897,Nathan,Nunn
+Ramana Nanda,10898,Ramana,Nanda
+Matthew Rhodes-Kropf,10899,Matthew,Rhodes-Kropf
+Michael Geruso,10900,Michael,Geruso
+Thomas G. McGuire,10901,Thomas,McGuire
+Danny Yagan,10902,Danny,Yagan
+Anita Castledine,10903,Anita,Castledine
+Klaus Moeltner,10904,Klaus,Moeltner
+Shawn Stoddard,10906,Shawn,Stoddard
+Jessica Wolpaw Reyes,10907,Jessica,Reyes
+Gerald Carlino,10908,Gerald,Carlino
+Janet Currie,10910,Janet,Currie
+Hannes Schwandt,10911,Hannes,Schwandt
+Oliver D. Bunn,10913,Oliver,Bunn
+Robert J. Shiller,10914,Robert,Shiller
+Melissa A. Boyle,10915,Melissa,Boyle
+Francis A. Longstaff,10917,Francis,Longstaff
+Ilya A. Strebulaev,10918,Ilya,Strebulaev
+Jesse Margolis,10919,Jesse,Margolis
+Michael Grossman,10921,Michael,Grossman
+Shin-Yi Chou,10922,Shin-Yi,Chou
+Marinho Bertanha,10923,Marinho,Bertanha
+Petra Moser,10924,Petra,Moser
+Mercedes Delgado,10925,Mercedes,Delgado
+Michael E. Porter,10926,Michael,Porter
+Scott Stern,10927,Scott,Stern
+Anirban Basu,10928,Anirban,Basu
+Jianjun Miao,10929,Jianjun,Miao
+Tao Zha,10959,Tao,Zha
+Judd B. Kessler,10932,Judd,Kessler
+Alvin E. Roth,10933,Alvin,Roth
+Peter Cappelli,10934,Peter,Cappelli
+Rachel Heath,10935,Rachel,Heath
+Byungkyu Lee,10937,Byungkyu,Lee
+Dalton Conley,10938,Dalton,Conley
+Hannah Trachtman,10939,Hannah,Trachtman
+Andrew Steinkruger,10940,Andrew,Steinkruger
+Mackenzie Wood,10941,Mackenzie,Wood
+Adam Wooster,10942,Adam,Wooster
+James J. Murphy,10944,James,Murphy
+Justin M. Rao,10945,Justin,Rao
+Yin-Wong Cheung,10946,Yin-Wong,Cheung
+Hiro Ito,10947,Hiro,Ito
+Lori Beaman,10948,Lori,Beaman
+Bram Thuysbaert,10950,Bram,Thuysbaert
+Christopher Udry,10951,Christopher,Udry
+Yaw Nyarko,10952,Yaw,Nyarko
+Shing-Yi Wang,10953,Shing-Yi,Wang
+Sheila M. Olmstead,10954,Sheila,Olmstead
+Hilary Sigman,10955,Hilary,Sigman
+Andrew Foerster,10956,Andrew,Foerster
+Juan Rubio-Ramírez,10957,Juan,Rubio-Ramírez
+Daniel F. Waggoner,10958,Daniel,Waggoner
+Peter Benczur,10960,Peter,Benczur
+Tom Nicholas,10962,Tom,Nicholas
+William A. Pizer,10963,William,Pizer
+Andrew J. Yates,10964,Andrew,Yates
+Lars Peter Hansen,10965,Lars,Hansen
+David Autor,10966,David,Autor
+David Dorn,10967,David,Dorn
+Gordon H. Hanson,10968,Gordon,Hanson
+Brendan Price,10969,Brendan,Price
+Alan Krueger,10970,Alan,Krueger
+Alexandre Mas,10971,Alexandre,Mas
+Xiaotong Niu,10972,Xiaotong,Niu
+Christopher Cotton,10973,Christopher,Cotton
+Brent R. Hickman,10974,Brent,Hickman
+Joseph P. Price,10975,Joseph,Price
+Daniel S. Hamermesh,10976,Daniel,Hamermesh
+Daiji Kawaguchi,10977,Daiji,Kawaguchi
+Jungmin Lee,10978,Jungmin,Lee
+Arik Levinson,10979,Arik,Levinson
